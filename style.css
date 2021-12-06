@@ -1,3 +1,12 @@
 body {
   background-color: #FFEEE2;
 }
+
+h1 {
+  color: #FBC2B5;
+  background-color: #353238;
+  font-size: 70px;
+  letter-spacing: 2px;
+  text-align: center;
+  text-shadow: 2px 2px #FFFFFF;
+}
