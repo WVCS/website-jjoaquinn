@@ -18,3 +18,29 @@ p {
 img {
   width: 25%;
 }
+
+nav {
+  list-style-type: none;
+  background-color: #5B3D34;
+  width: 100%;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  position: fixed;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #FBC2B5;
+  text-shadow: 1px 1px #FFFFFF;
+  textdecoration: none;
+  padding: 14px 50px;
+}
+
+li a:hover; {
+  background-color; #353238
+}
